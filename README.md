@@ -1,5 +1,5 @@
 # Hello, I'm Stanley:
-Computer Science Student @Rutgers driven by curiosity and a commitment to continuous learning as well as a coffee enthusiast currently developing an app that extracts extensive data from various online sources to provide accurate rankings of the best-rated drinks in specific areas, eliminating the ambiguity often encountered with general search engines.
+Computer Science Student @Rutgers driven by curiosity and commitment to continuous learning as well as a coffee enthusiast currently developing an app that extracts extensive data from various online sources to provide accurate rankings of the best-rated drinks in specific areas, eliminating the ambiguity often encountered with general search engines.
 
 
 ## 🌐 LinkedIn:
