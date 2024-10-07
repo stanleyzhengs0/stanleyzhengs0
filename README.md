@@ -1,5 +1,5 @@
 # Hello, I'm Stanley:
-Computer Science New Grad @Rutgers driven by curiosity and commitment to continuous learning as well as a coffee enthusiast currently working on developing an app that extracts extensive data from various online sources to provide accurate rankings of the best-rated drinks in specific areas, eliminating the ambiguity often encountered with general search engines and different online platforms.
+Recent Computer Science graduate from Rutgers, driven by curiosity and a commitment to continuous learning. Currently developing an app that pulls data from various online sources to provide more accurate and consistent cafe ratings, reducing the ambiguity often found across different platforms like Google Maps, Yelp, Trip Advisor, and Apple Maps. As a coffee enthusiast, I’m excited to combine my passion for tech and coffee in a project that improves the cafe search experience.
 
 
 ## 🌐 LinkedIn:
