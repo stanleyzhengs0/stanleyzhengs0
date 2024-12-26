@@ -2,6 +2,9 @@
 After graduating, I hopped straight into learning web development because I’ve always wanted to create software as a service. I started by learning the basics of Next.js/React.js, I’ve started working on data-related projects, focusing on data processing and analysis. I’ve been hands on with tools like dbt, PostgreSQL, Power BI, AWS Cloud Services, and Snowflake. I find collecting and analyzing big data fascinating because it uncovers valuable business insights and creates opportunities to use Machine Learning for building and training predictive models. When it comes to a company, I value more than just the name. I’m looking for opportunities to grow and learn professionally and personally. I’d be thrilled to be a part of any company that offers a chance to contribute meaningfully through coding, On a more personal level, I would describe myself as a team player, a person that’s well organized and has good team communication. I'm a person who likes to live in the present. I understand the value of feedback and am always willing to listen to what I can improve on. Overall I'm motivated and eager to learn in a professional environment and am excited about the opportunity to start my career and contribute to meaningful projects.
 
 
+https://web.archive.org/web/20230630111131/https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+
+
 
 ## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-zheng-23156923b/) 
