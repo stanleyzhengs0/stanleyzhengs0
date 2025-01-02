@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley</h1>
-- 👨‍💻 All of my projects are available at [stanleyzhengs.netlify.app/works ](https://stanleyzhengs.netlify.app/works)
+- 👨‍💻 All of my projects are available at https://stanleyzhengs.netlify.app/works
 <p align="left">
 </p>
 
