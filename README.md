@@ -1,6 +1,5 @@
 <h1 align="center">Hello World!, I'm Stanley</h1>
 
-Website: https://stanleyzhengs.netlify.app/works
 <p align="left">
 </p>
 
