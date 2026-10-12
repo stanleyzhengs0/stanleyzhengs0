@@ -25,9 +25,9 @@
 
 Actively looking to incorporate real, high-quality automations from open-source agents and apply them to production environments. I try a lot of new tools as they come out and have fun doing so.
 
-- [`pstack`](https://github.com/cursor/plugins/tree/main/pstack): can a skill stack keep agent output concise and verified?
+- [`pstack`](https://github.com/cursor/plugins/tree/main/pstack): Verification Skills, building trust in Agents
 - [`mattpocock/skills`](https://github.com/mattpocock/skills): PRD, issue breakdown and TDD workflows, run by an agent.
-- [`ponytail`](https://github.com/DietrichGebert/ponytail): getting my agent to write 12 lines when 12 will do.
+- [`ponytail`](https://github.com/DietrichGebert/ponytail): getting my agent to write 12 lines instead of 100.
 
 ### Stack
 
