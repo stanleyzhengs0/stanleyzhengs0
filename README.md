@@ -1,37 +1,44 @@
-<h1 align="center">Hello World!, I'm Stanley</h1>
+<div align="center">
 
-<p align="left">
+<h1>Stanley Zheng</h1>
+
+<p>I'm a software engineer, and when I'm not at my desk I'm probably making coffee or reading about how to make it better.</p>
+
+<p> I got into specialty coffee a while back, and now my browser history is mostly espresso machines. </p>
+
+<p>One of these days I’m getting a La Marzocco.</p>
+
+<a href="https://www.linkedin.com/in/stanley-zheng-23156923b/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A0A0A" alt="" width="16" height="16"/>
+  </picture>
+  <strong>LinkedIn</strong>
+</a>
+
+</div>
+
+<br>
+
+
+### Exploring &nbsp;<sub>October 2026</sub>
+
+Actively looking to incorporate real, high-quality automations from open-source agents and apply them to production environments. I try a lot of new tools as they come out and have fun doing so.
+
+- [`pstack`](https://github.com/cursor/plugins/tree/main/pstack): can a skill stack keep agent output concise and verified?
+- [`mattpocock/skills`](https://github.com/mattpocock/skills): PRD, issue breakdown and TDD workflows, run by an agent.
+- [`ponytail`](https://github.com/DietrichGebert/ponytail): getting my agent to write 12 lines when 12 will do.
+
+### Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="32" height="32"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="32" height="32"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="32" height="32"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="32" height="32"/>
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
- 
-   
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-</p>
-
-
-## 🌐 LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-zheng-23156923b/) 
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyzhengs0&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=stanleyzhengs0&icon=0&color=0)](https://visitcount.itsvg.in)
