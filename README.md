@@ -2,7 +2,7 @@
 
 <h1>Stanley Zheng</h1>
 
-<p>I'm a software engineer, and when I'm not at my desk I'm probably making coffee or reading about how to make it better.</p>
+<p>By day, I build software for insurance that protects boats, yachts, valuables, and everything an umbrella policy covers. By morning (and afternoon), I'm chasing a better cup of coffee.</p>
 
 <p> I got into specialty coffee a while back, and now my browser history is mostly espresso machines. </p>
 
