@@ -2,7 +2,7 @@
 
 <h1>Stanley Zheng</h1>
 
-<p>By day, I engineer the insurance products that protect your boat, yacht, pet, valuables, and everything an umbrella policy covers. By morning (and afternoon), I'm chasing a better cup of coffee.</p>
+<p>By day, I engineer the insurance products that protect your boat, yacht, pet, valuables, and everything an umbrella policy covers. By morning, afternoon, and night I'm chasing a better cup of coffee.</p>
 
 <p> I got into specialty coffee a while back, and now my browser history is mostly espresso machines. </p>
 
